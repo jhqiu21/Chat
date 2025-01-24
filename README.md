@@ -4,14 +4,13 @@ This is a Live Chat Software. You can communicate with other users the this chat
 
 ## Initial Setup
 
-1. Make sure you have Go version 1.11+ installed on your machine.
-2. Set up Your React frontend. Run following command
-   ```
-   $ cd frontend
-   $ npm install -g create-react-app
-   $ npx create-react-app .
-   ```
-3. Run Chat App Locally.
+1. Make sure you have the following installed on your machine.
+    
+   - Go version 1.11+
+   - npm
+   - npx
+
+1. Run Chat App Locally.
 
    - In the backend, run
      ```
@@ -21,4 +20,4 @@ This is a Live Chat Software. You can communicate with other users the this chat
      ```
      $ npm start
      ```
-4. Start your chat journey.
+1. Start your chat journey.
